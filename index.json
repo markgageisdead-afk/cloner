@@ -1,0 +1,14 @@
+{
+  "skillset_name": "AI Website Cloner",
+  "description": "A portable skillset for recreating websites as clean Next.js applications.",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "id": "clone-website",
+      "name": "Clone Website",
+      "path": ".agents/skills/clone-website/",
+      "description": "Recreate a website as a clean Next.js application through research, asset extraction, component specification, implementation, and visual QA. Use only for sites you own or have permission to reproduce."
+    }
+  ],
+  "agents": []
+}
